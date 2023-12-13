@@ -1,5 +1,5 @@
 <h1> <u> About me </u> </h1>
-Sup I'm a typescript and C++ Developer from BIH.
+Sup I'm a typescript and C++ Developer from BiH.
 I work on stuff like discord bots with discord.ts.
 <h2> Interests </h2>
 
